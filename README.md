@@ -1,9 +1,8 @@
-### Hello World! 👋
-<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 100px;">
+### Hello World! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaneng/)](https://www.linkedin.com/in/rafaneng/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaneng@gmail.com)](mailto:rafaneng@gmail.com/)
-[![GitHub followers](https://img.shields.io/github/followers/rafaneng.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rafaneng?tab=followers)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-manzini/)](https://www.linkedin.com/in/leonardo-manzini/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoh.manzini@gmail.com)](mailto:leoh.manzini@gmail.com/)
+[![GitHub followers](https://img.shields.io/github/followers/LeoManzini.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/LeoManzini?tab=followers)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
