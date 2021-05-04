@@ -8,5 +8,5 @@
 - Only curiosity does not age with us and always remains a child - Emanuel Wertheimer;
 - I'm currently learning Full Stack Development;
 - Passionate about development and programming;
-- Currently working as an intern at DXC Technology;
+- Currently working as an System Development Analyst at DXC Technology;
 - Future computer engineer.
