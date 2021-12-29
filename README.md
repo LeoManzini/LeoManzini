@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/LeoManzini.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/LeoManzini?tab=followers)
 
 - Only curiosity does not age with us and always remains a child - Emanuel Wertheimer;
-- Full Systems Development Java Analyst;
-- Passionate about development and programming;
-- Currently working as an System Development Analyst at Santander F1RST;
+- Mid Systems Development Analyst;
+- Passionate about problem solving using development and programming;
+- Currently working as an System Development Analyst at F1RST;
 - Future computer engineer.
