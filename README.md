@@ -10,3 +10,13 @@
 - Passionate about problem solving using development and programming;
 - Currently working as an System Development Analyst at F1RST;
 - Future computer engineer.
+
+
+### Repository Contents
+
+<div align="center">
+  <a href="https://github.com/alexfelipe">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoManzini&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoManzini&show_icons=true&theme=radical" />
+  </a>
+</div>
