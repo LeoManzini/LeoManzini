@@ -1,5 +1,5 @@
 ### Hello World!!
-### Leonardo Henrique Manzini, 22 years old, Mid System Development Analyst at F1RST and Engineering Student!
+### Leonardo Henrique Manzini, Mid System Development Analyst at F1RST and Engineering Student!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-manzini/)](https://www.linkedin.com/in/leonardo-manzini/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoh.manzini@gmail.com)](mailto:leoh.manzini@gmail.com/)
