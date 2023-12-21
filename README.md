@@ -1,15 +1,16 @@
 ### Hello World!!
-### Leonardo Henrique Manzini, Mid System Development Analyst at Cast Group!
+### Leonardo Henrique Manzini, System Development Analyst at <a href="https://castgroup.com.br">Cast Group</a>!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-manzini/)](https://www.linkedin.com/in/leonardo-manzini/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoh.manzini@gmail.com)](mailto:leoh.manzini@gmail.com/)
 [![GitHub followers](https://img.shields.io/github/followers/LeoManzini.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/LeoManzini?tab=followers)
 
 - Only curiosity does not age with us and always remains a child - Emanuel Wertheimer;
-- Mid System Development Analyst;
+- System Development Analyst;
 - Passionate about problem solving using development and programming;
-- Currently working as a System Development Analyst at Vilt Group;
-- Computer engineer.
+- Currently working as a System Development Analyst at <a href="https://castgroup.com.br">Cast Group</a>;
+- Software consultant as <a href="https://codersconcept.com.br/">Coders Concept<a/>;
+- <a href="https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/">Graduated computer engineer<a/>.
 
 
 ### Repository Contents
