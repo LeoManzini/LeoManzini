@@ -12,7 +12,6 @@
 - Software consultant as <a href="https://codersconcept.com.br/">Coders Concept<a/>;
 - <a href="https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/">Graduated computer engineer<a/>.
 
-
 ### Repository Contents
 
 <div align="center">
@@ -21,3 +20,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoManzini&show_icons=true&theme=radical" />
   </a>
 </div>
+
+[![leonardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoManzini&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/LeoManzini/)
