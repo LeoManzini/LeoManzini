@@ -1,5 +1,5 @@
 ### Hello World!!
-### Leonardo Henrique Manzini, System Development Analyst at <a href="https://castgroup.com.br">Cast Group</a>!
+### Leonardo Henrique Manzini, Java Software Engineer at <a href="https://castgroup.com.br">Cast Group</a>!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-manzini/)](https://www.linkedin.com/in/leonardo-manzini/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoh.manzini@gmail.com)](mailto:leoh.manzini@gmail.com/)
