@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoh.manzini@gmail.com)](mailto:leoh.manzini@gmail.com/)
 [![GitHub followers](https://img.shields.io/github/followers/LeoManzini.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/LeoManzini?tab=followers)
 
-- System Development Analyst;
 - Passionate about problem solving using development and programming;
 - Currently working as a Java Software Engineer at <a href="https://castgroup.com.br">Cast Group</a>;
 - Software consultant as <a href="https://codersconcept.com.br/">Coders Concept<a/>;
