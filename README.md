@@ -7,7 +7,7 @@
 
 - Passionate about problem solving using development and programming;
 - Currently working as a Java Software Engineer at <a href="https://castgroup.com.br">Cast Group</a>;
-- Software consultant as <a href="https://codersconcept.com.br/">Coders Concept<a/>;
+- Software consultant as <a href="https://github.com/CodersConcept">Coders Concept<a/>;
 - <a href="https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/">Graduated computer engineer<a/>;
 - _“To the worm that first gnawed at the cold flesh of my cadaver I dedicate as a fond remembrance these posthumous memoirs.” - Machado de Assis, The Posthumous Memoirs of Brás Cubas_
 
